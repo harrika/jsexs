@@ -1,0 +1,5 @@
+
+aa = ['a', 'b', 'c', 'd']
+bb = aa.slice(1,aa.length-1)
+console.log(bb)
+
